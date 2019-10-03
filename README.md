@@ -13,7 +13,7 @@ The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
 ## Important
-After running the app please run this command "npm/yarn dev-serv"
+After running the app please run this command "npm/yarn dev-serv".<br>
 It fetches all information(images, news) from db.json. If you miss this command, the screen show only header, navbar and footer).
 
 
