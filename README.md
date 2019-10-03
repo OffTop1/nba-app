@@ -12,7 +12,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
-### Important
+## Important
 After running the app please run this command "npm/yarn dev-serv"
 It fetches all information(images, news) from db.json. If you miss this command, the screen show only header, navbar and footer).
 
